@@ -35,3 +35,9 @@ Here's how you can play it:
 
 
 4. Start the game :hourglass:
+
+
+## IMPORTANT ⚠️
+
+## !!!!!!!!
+> Please appreciate the time and effort we put into the yearbook. 😀
