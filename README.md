@@ -31,7 +31,7 @@ Here's how you can play it:
 
 3. Find instructions 
     - [instructions here](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/blob/dac250209c50adfa04e691628c8e84596742658f/Animation.png)
-    - or [click here]() for the still image (but clearly the animation is a lot cooler)
+    - or [click here](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/blob/898464df49569d0cdb7bf4d1758cec2acd250958/Still%20imgae._.png) for the still image (but clearly the animation is a lot cooler)
 
 
 4. Start the game :hourglass:
