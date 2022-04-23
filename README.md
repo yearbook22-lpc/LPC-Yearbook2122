@@ -30,7 +30,7 @@ Here's how you can play it:
 2. Each player chooses a playing piece and places it on 📍 Tile 1 (the LPC gate for obvious reason) 
 
 3. Find instructions 
-    - instructions here
+    - [instructions here](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/blob/dac250209c50adfa04e691628c8e84596742658f/Animation.png)
     - or click here for the still image (but clearly the animation is a lot cooler)
 
 
