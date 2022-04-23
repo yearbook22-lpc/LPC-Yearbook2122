@@ -25,7 +25,7 @@ yep you heard it right, and it's a straightforward yet fun game with all your fa
 ### Setup & Game Play 
 Here's how you can play it:
 
-1. Download the [printable die and game pieces](https://github.com/yearbook22-lpc/LPC-Yearbook2122/blob/c8906804fec2675c196d5e82f25287ff5f885d03/Printable.png); cut them out and tape the sides together
+1. Download the [printable die and game pieces](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/blob/5aca1895571193b1cfe5eb255fe7c4850fe04204/Printable.png); cut them out and tape the sides together
 
 2. Each player chooses a playing piece and places it on tile 1 (the LPC gate for obvious reason) 
 
