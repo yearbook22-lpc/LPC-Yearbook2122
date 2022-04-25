@@ -12,7 +12,7 @@ You can download the digital yearbook here in ePub format.
  
 
 <!-- BEGIN DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")](Yearbook 2122.zip)
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")]()
 <!-- END DOWNLOAD BUTTON -->
 
 
