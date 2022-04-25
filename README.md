@@ -12,7 +12,7 @@ You can download the digital yearbook here in ePub format.
  
 
 <!-- BEGIN DOWNLOAD BUTTON -->
-[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")]()
+[![Download zip](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/blob/08ed32424b4374bfeda01577240111c10fe96258/Yearbook%202122.zip)
 <!-- END DOWNLOAD BUTTON -->
 
 
