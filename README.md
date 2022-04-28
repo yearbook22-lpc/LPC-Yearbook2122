@@ -20,7 +20,7 @@ You can download the digital yearbook here in ePub format.
 ## Race Game :zap:
 did you notice the back cover is actually a board game? 🧐
 
-yep you heard it right, and it's a straightforward yet fun game with all your favorite LPC elements 🤪
+yep you heard it right, and it's a straightforward yet fun game with all your favorite LPC elements ✌🏻
 
 ### Setup & Game Play 
 Here's how you can play it:
