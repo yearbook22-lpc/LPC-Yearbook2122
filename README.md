@@ -7,7 +7,7 @@
 
 
 ## Digital Yearbook :book:
-You can download the digital yearbook here in ePub format. 
+You can download the digital yearbook here in PDF format. 
 
  
 
@@ -15,7 +15,6 @@ You can download the digital yearbook here in ePub format.
 [![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/raw/main/Yearbook%202122.zip)
 <!-- END DOWNLOAD BUTTON -->
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fdownload-button-white-background_97458-63.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fdownload-button&tbnid=2h8g88tS7RbdqM&vet=12ahUKEwjrlYCInrj3AhUG4pQKHZR9CsoQMyghegUIARCNAg..i&docid=wzT9rjxO91H0hM&w=2000&h=1027&q=download%20button%20image&hl=en-US&ved=2ahUKEwjrlYCInrj3AhUG4pQKHZR9CsoQMyghegUIARCNAg" width="25px"/>
 
 ## Race Game :zap:
 did you notice the back cover is actually a board game? 🧐
