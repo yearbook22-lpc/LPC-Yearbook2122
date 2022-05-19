@@ -12,7 +12,7 @@ You can download the digital yearbook here in PDF format.
  
 
 <!-- BEGIN DOWNLOAD BUTTON -->
-[![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")]([https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/raw/main/Yearbook%202122.zip](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/raw/main/Yearbook2122.pdf.zip](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/raw/main/Yearbook2122.pdf.zip])
+[![Download](https://custom-icon-badges.herokuapp.com/badge/-Download-F25278?style=for-the-badge&logo=download&logoColor=white "Download zip")](https://github.com/yearbook22-lpc/yearbook22-lpc.github.io/raw/main/Yearbook2122.pdf.zip)
 <!-- END DOWNLOAD BUTTON -->
 
 
